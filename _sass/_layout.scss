@@ -204,7 +204,11 @@
 .post-header {
     margin-bottom: $spacing-unit;
 }
-
+.start {
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+}
 .post-title {
     font-size: 42px;
     letter-spacing: -1px;
