@@ -12,13 +12,13 @@ images:
     title: Monstera
 ---
 <!-- Magnific Popup core CSS file -->
-<link rel="stylesheet" href="script/magnific-popup.css">
+<link rel="stylesheet" href="/script/magnific-popup.css">
 
 <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
 <!-- Magnific Popup core JS file -->
-<script src="script/magnific-popup.js"></script>
+<script src="/script/magnific-popup.js"></script>
 <script>
 $(document).ready(function() {
 $('.test-popup-link').magnificPopup({
