@@ -18,15 +18,15 @@ images:
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
 <!-- Magnific Popup core JS file -->
-<script src="magnific-popup/jquery.magnific-popup.js">
-
+<script src="magnific-popup/jquery.magnific-popup.js"></script>
+<script>
 $(document).ready(function() {
-  $('.image-link').magnificPopup({type:'image'});
-});
 $('.test-popup-link').magnificPopup({
   type: 'image'
   // other options
 });
+});
+
 </script>
 <a class="test-popup-link" href="/img/produkte/thumb/003_produkt.jpg">Open popup</a>
 
