@@ -43,9 +43,9 @@ $(document).ready(function() {
 </script>
 
 <div class="popup-gallery">
-	<a title="Bonsai" href="/img/produkte/001_produkt.jpg"><img width="75" height="75" src="/img/produkte/thumb/001_produkt.jpg"></a>
-	<a title="Kentai Palme" href="/img/produkte/002_produkt.jpg"><img width="75" height="75" src="/img/produkte/thumb/002_produkt.jpg"></a>
-	<a title="Monstera" href="/img/produkte/003_produkt.jpg"><img width="75" height="75" src="/img/produkte/thumb/003_produkt.jpg"></a>
+	<a title="Bonsai" href="/img/produkte/001_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/001_produkt.jpg"></a>
+	<a title="Kentai Palme" href="/img/produkte/002_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/002_produkt.jpg"></a>
+	<a title="Monstera" href="/img/produkte/003_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/003_produkt.jpg"></a>
 </div>
 <!--
 <ul class="photo-gallery">
