@@ -34,7 +34,7 @@ $(document).ready(function() {
 		image: {
 			tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
 			titleSrc: function(item) {
-				return item.el.attr('title') + '<small>by Marsel Van Oosten</small>';
+				return item.el.attr('title') + '<small></small>';
 			}
 		}
 	});
@@ -43,13 +43,14 @@ $(document).ready(function() {
 </script>
 
 <div class="popup-gallery">
-	<a title="Bonsai" href="/img/produkte/thumb/001_produkt.jpg"><img width="75" height="75" src="/img/produkte/003_produkt.jpg"></a>
-	<a title="Kentai Palme" href="/img/produkte/thumb/002_produkt.jpg"><img width="75" height="75" src="/img/produkte/003_produkt.jpg"></a>
-	<a title="Monstera" href="/img/produkte/thumb/003_produkt.jpg"><img width="75" height="75" src="/img/produkte/003_produkt.jpg"></a>
+	<a title="Bonsai" href="/img/produkte/001_produkt.jpg"><img width="75" height="75" src="/img/thumb/produkte/003_produkt.jpg"></a>
+	<a title="Kentai Palme" href="/img/produkte/002_produkt.jpg"><img width="75" height="75" src="/img/thumb/produkte/003_produkt.jpg"></a>
+	<a title="Monstera" href="/img/produkte/003_produkt.jpg"><img width="75" height="75" src="/img/thumb/produkte/003_produkt.jpg"></a>
 </div>
-
+<!--
 <ul class="photo-gallery">
   {% for image in page.images %}
     <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
   {% endfor %}
 </ul>
+-->
