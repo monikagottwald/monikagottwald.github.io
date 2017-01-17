@@ -1,6 +1,6 @@
 ---
-layout: Über mich
-title: Vita
+layout: page
+title: Über mich
 permalink: /uebermich/
 ---
 
