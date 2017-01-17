@@ -21,15 +21,32 @@ images:
 <script src="/script/magnific-popup.js"></script>
 <script>
 $(document).ready(function() {
-$('.test-popup-link').magnificPopup({
-  type: 'image'
-  // other options
-});
+	$('.popup-gallery').magnificPopup({
+		delegate: 'a',
+		type: 'image',
+		tLoading: 'Loading image #%curr%...',
+		mainClass: 'mfp-img-mobile',
+		gallery: {
+			enabled: true,
+			navigateByImgClick: true,
+			preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+		},
+		image: {
+			tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+			titleSrc: function(item) {
+				return item.el.attr('title') + '<small>by Marsel Van Oosten</small>';
+			}
+		}
+	});
 });
 
 </script>
-<a class="test-popup-link" href="/img/produkte/thumb/003_produkt.jpg">Open popup</a>
 
+<div class="popup-gallery">
+	<a title="Bonsai" href="/img/produkte/thumb/001_produkt.jpg"><img width="75" height="75" src="/img/produkte/003_produkt.jpg"></a>
+	<a title="Kentai Palme" href="/img/produkte/thumb/002_produkt.jpg"><img width="75" height="75" src="/img/produkte/003_produkt.jpg"></a>
+	<a title="Monstera" href="/img/produkte/thumb/003_produkt.jpg"><img width="75" height="75" src="/img/produkte/003_produkt.jpg"></a>
+</div>
 
 <ul class="photo-gallery">
   {% for image in page.images %}
