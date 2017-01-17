@@ -46,6 +46,15 @@ $(document).ready(function() {
 	<a title="Bonsai" href="/img/produkte/001_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/001_produkt.jpg"></a>
 	<a title="Kentai Palme" href="/img/produkte/002_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/002_produkt.jpg"></a>
 	<a title="Monstera" href="/img/produkte/003_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/003_produkt.jpg"></a>
+		<a title="Dracaena" href="/img/produkte/004_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/004_produkt.jpg"></a>
+	<a title="Shirakashi Bonsai" href="/img/produkte/005_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/005_produkt.jpg"></a>
+	<a title="Lorbeerbaum" href="/img/produkte/006_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/006_produkt.jpg"></a>
+		<a title="Graspflanze" href="/img/produkte/007_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/007_produkt.jpg"></a>
+	<a title="Oriental Olive" href="/img/produkte/008_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/008_produkt.jpg"></a>
+	<a title="Buchs Spirale" href="/img/produkte/009_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/009_produkt.jpg"></a>
+		<a title="Alocasia Calidora" href="/img/produkte/010_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/010_produkt.jpg"></a>
+	<a title="Pinus Bonsai" href="/img/produkte/011_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/011_produkt.jpg"></a>
+
 </div>
 <!--
 <ul class="photo-gallery">
