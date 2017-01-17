@@ -4,11 +4,11 @@ title: Produkte
 permalink: /produkte/
 
 images:
-  - image_path: /img/thumb/001_produkt.jpg
+  - image_path: /img/produkte/thumb/001_produkt.jpg
     title: Bonsai
-  - image_path: /img/thumb/002_produkt.jpg
+  - image_path: /img/produkte/thumb/002_produkt.jpg
     title: Kentai Palme
-  - image_path: /img/thumb/003_produkt.jpg
+  - image_path: /img/produkte/thumb/003_produkt.jpg
     title: Monstera
 ---
 <!-- Magnific Popup core CSS file -->
@@ -28,7 +28,7 @@ $('.test-popup-link').magnificPopup({
   // other options
 });
 </script>
-<a class="test-popup-link" href="/img/thumb/003_produkt.jpg">Open popup</a>
+<a class="test-popup-link" href="/img/produkte/thumb/003_produkt.jpg">Open popup</a>
 
 
 <ul class="photo-gallery">
