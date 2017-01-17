@@ -18,7 +18,7 @@ images:
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
 <!-- Magnific Popup core JS file -->
-<script src="magnific-popup/jquery.magnific-popup.js"></script>
+<script src="script/magnific-popup.js"></script>
 <script>
 $(document).ready(function() {
 $('.test-popup-link').magnificPopup({
