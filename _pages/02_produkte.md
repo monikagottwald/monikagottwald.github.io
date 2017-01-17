@@ -55,7 +55,7 @@ $(document).ready(function() {
 		<a title="Alocasia Calidora" href="/img/produkte/010_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/010_produkt.jpg"></a>
 	<a title="Pinus Bonsai" href="/img/produkte/011_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/011_produkt.jpg"></a>
 		<a title="Strelitzien" href="/img/produkte/012_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/012_produkt.jpg"></a>
-	<a title="Wisteria-Goldregen" href="/img/produkte/013_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/0013_produkt.jpg"></a>
+	<a title="Wisteria-Goldregen" href="/img/produkte/013_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/013_produkt.jpg"></a>
 		<a title="Acer Bonsai" href="/img/produkte/014_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/014_produkt.jpg"></a>
 	<a title="Acer Maple" href="/img/produkte/015_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/015_produkt.jpg"></a>
 	<a title="Dracaena Reflexa Anita" href="/img/produkte/016_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/016_produkt.jpg"></a>
