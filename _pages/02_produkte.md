@@ -50,7 +50,7 @@ $(document).ready(function() {
 	   </div>
 	   </div>
 	   <div class="col-7-12">
-       <div class="content" style="font:arial;text-align:center;line-height: 95%;padding:15% 0;">
+       <div class="content" style="font:arial;text-align:center;padding:8% 0;">
 	   <b>Hier nur ein kleiner Teil der Produktauswahl.<br>
 Im Sortiment stehen für Sie noch viele weitere Pflanzen zur Verfügung!</b><br><br>
 
