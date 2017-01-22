@@ -17,7 +17,7 @@
         {% for node in site.pages %}
           
 		  {% if node.url == page.url %}
-		  <a class="page-link" href="{{ node.url | prepend: site.baseurl }}"><b>{{ node.title }}</b></a>
+		  <a class="page-link" href="{{ node.url | prepend: site.baseurl }}"><b><u>{{ node.title }}</u></b></a>
 		  {% else %}
           <a class="page-link" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
           {% endif %}
