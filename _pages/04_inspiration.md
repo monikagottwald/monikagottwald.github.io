@@ -13,7 +13,7 @@ permalink: /inspiration/
 	   </div>
 	   </div>
 	   <div class="col-7-12">
-       <div class="content" style="font:arial;color:white;text-align:center">
+       <div class="content" style="font:arial;color:white;display: flex;align-items: center;">
 	   Lassen Sie sich hier von den Projektbeispielen inspirieren!
 	   </div>
 	   </div>

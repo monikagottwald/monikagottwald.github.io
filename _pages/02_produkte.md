@@ -50,7 +50,7 @@ $(document).ready(function() {
 	   </div>
 	   </div>
 	   <div class="col-7-12">
-       <div class="content" style="font:arial;text-align:center;line-height: 95%;">
+       <div class="content" style="font:arial;text-align:center;line-height: 95%;display: flex;align-items: center;">
 	   <b>Hier nur ein kleiner Teil der Produktauswahl.<br>
 Im Sortiment stehen für Sie noch viele weitere Pflanzen zur Verfügung!</b><br><br>
 
@@ -64,7 +64,8 @@ und für hohe Qualität ihrer Produkte einstehen. <br><br>
 
 <br><br><br>
 
-<div class="popup-gallery" style="margin:0 auto;">
+<div style="display: block;margin-left: auto;margin-right: auto;">
+<div class="popup-gallery" style="margin-left: auto;margin-right: auto;">
 	<a title="Bonsai" href="/img/produkte/001_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/001_produkt.jpg"></a>
 	<a title="Kentai Palme" href="/img/produkte/002_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/002_produkt.jpg"></a>
 	<a title="Monstera" href="/img/produkte/003_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/003_produkt.jpg"></a>
@@ -84,6 +85,7 @@ und für hohe Qualität ihrer Produkte einstehen. <br><br>
 		<a title="Cycas Palme" href="/img/produkte/017_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/017_produkt.jpg"></a>
 	<a title="Zamioculcas" href="/img/produkte/018_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/018_produkt.jpg"></a>
 
+</div>
 </div>
 <!--
 <ul class="photo-gallery">

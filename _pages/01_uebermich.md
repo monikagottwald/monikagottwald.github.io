@@ -10,16 +10,16 @@ permalink: /uebermich/
 	</div>
     <div class="col-4-12">
        <div class="content">
-	<img style="vertical-align: middle;" src="/img/monika.png">
+	<img src="/img/monika.png">
        </div>
     </div>
     <div class="col-7-12" >
-       <div class="content" style="font-family: 'Dancing Script', serif;text-align: center;font-size: 120%;">
-<span style="vertical-align:middle;">Meine Philosophie:<br>
+       <div class="content" style="font-family: 'Dancing Script', serif;text-align:center;display: flex;align-items: center;font-size: 120%;">
+Meine Philosophie:<br>
 Es ist die Energie der Leidenschaft, die<br>
 die Herzen begeistert!<br>
 Können und Erfahrung sind die Werkzeuge<br>
-für die Umsetzung!<br></span>
+für die Umsetzung!<br>
        </div>
     </div>
 </div>
