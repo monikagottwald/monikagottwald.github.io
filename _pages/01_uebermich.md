@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Über mich
+title: über mich
 permalink: /uebermich/
 ---
 <link rel="stylesheet" href="/css/simplegrid.css">
