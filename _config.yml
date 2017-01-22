@@ -1,6 +1,6 @@
 # Site settings
 title: Gottwald Raumgestaltung
-email: monika.gottwald@googlemail.com
+email: monika.gottwald@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Gottwald Raumgestaltung. Monika Gottwald
 baseurl: "" # the subpath of your site, e.g. /blog/

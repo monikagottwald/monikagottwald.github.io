@@ -13,7 +13,7 @@ permalink: /kontakt/
 	   </div>
 	   </div>
 	   <div class="col-7-12">
-       <div class="content" style="font:arial;color:white;display: flex;align-items: center;">
+       <div class="content" style="font:arial;color:white;text-align:center;padding:18% 0;">
 	   Wenn Sie Fragen haben oder einen Termin
 für eine unverbindliche Beratung vereinbaren möchten,
 nehmen Sie mit mir Kontakt auf!

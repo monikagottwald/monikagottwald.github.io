@@ -9,11 +9,11 @@ permalink: /inspiration/
 </div>
     <div class="col-4-12">
        <div class="content">
-	   <img src="/img/bluete.png">
+	   <img src="/img/bluete.jpg">
 	   </div>
 	   </div>
 	   <div class="col-7-12">
-       <div class="content" style="font:arial;color:white;display: flex;align-items: center;">
+       <div class="content" style="font:arial;color:white;text-align:center;padding:24% 0;">
 	   Lassen Sie sich hier von den Projektbeispielen inspirieren!
 	   </div>
 	   </div>
