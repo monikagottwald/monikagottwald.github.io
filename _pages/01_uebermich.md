@@ -24,7 +24,7 @@ für die Umsetzung!<br>
     </div>
 </div>
 
-<div class="grid grid-pad">
+<div class="grid">
     <div class="col-1-3">
        <div class="content" style="font-family: 'Italianno', cursive, serif;font-size: 150%;">
      Ich bin keine Innenarchitektin, ich würde mich eher als Künstlerin für Raumgestaltung bezeichnen. Vielleicht bringe ich nicht die klassische Qualifikation mit aber eine Leidenschaft für die Gestaltung von Räumen zum Wohlfühlen und Begeistern.
