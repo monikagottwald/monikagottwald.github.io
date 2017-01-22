@@ -4,8 +4,17 @@ title: Leistungen
 permalink: /leistungen/
 ---
 <link rel="stylesheet" href="/css/simplegrid.css">
-<div style="background: rgb(229, 203, 121);background: rgba(229, 203, 121, .5);">
+<div class="grid" style="background: rgb(229, 203, 121);background: rgba(229, 203, 121, .5);">
+<div class="col-2-12">
+
+</div>
+<div class="col-8-12">
+
 	   <img src="/img/leistungen-head.png">
+
+</div>
+<div class="col-2-12">
+</div>
 </div>
 
 <br>

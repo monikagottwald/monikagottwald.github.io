@@ -42,13 +42,15 @@ $(document).ready(function() {
 
 </script>
 <div class="grid" style="background: rgb(173, 203, 119);background: rgba(173, 203, 119, .5);">
-    <div class="col-1-2">
+    <div class="col-1-12">
+	</div>
+    <div class="col-4-12">
        <div class="content">
 	   <img src="/img/produkte/head.png">
 	   </div>
 	   </div>
-	   <div class="col-1-2">
-       <div class="content" style="font:arial;text-align:center">
+	   <div class="col-7-12">
+       <div class="content" style="font:arial;text-align:center;line-height: 95%;">
 	   <b>Hier nur ein kleiner Teil der Produktauswahl.<br>
 Im Sortiment stehen für Sie noch viele weitere Pflanzen zur Verfügung!</b><br><br>
 

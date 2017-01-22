@@ -5,7 +5,9 @@ permalink: /kontakt/
 ---
 <link rel="stylesheet" href="/css/simplegrid.css">
 <div class="grid" style="background: rgb(162, 28, 24);background: rgba(162, 28, 24, 1);">
-    <div class="col-5-12">
+<div class="col-1-12">
+</div>
+    <div class="col-4-12">
        <div class="content">
 	   <img src="/img/monika-kontakt.jpg">
 	   </div>
@@ -38,7 +40,7 @@ gerne zur Verfügung!<br><br>
 Tel.: 02871 / 26 855 70<br>
 mobil: 01573 / 321 48 60<br><br>
 
-E-Mail: monika.gottwald@gmail.com
+E-Mail: <a href="mailto:monika.gottwald@gmail.com">monika.gottwald@gmail.com</a>
 	   </div>
 	   </div>
 </div>

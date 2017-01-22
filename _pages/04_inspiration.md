@@ -5,12 +5,14 @@ permalink: /inspiration/
 ---
 <link rel="stylesheet" href="/css/simplegrid.css">
 <div class="grid" style="background: rgb(174, 143, 111);background: rgba(174, 143, 111, .5);">
-    <div class="col-3-12">
+<div class="col-1-12">
+</div>
+    <div class="col-4-12">
        <div class="content">
 	   <img src="/img/bluete.png">
 	   </div>
 	   </div>
-	   <div class="col-9-12">
+	   <div class="col-7-12">
        <div class="content" style="font:arial;color:white;text-align:center">
 	   Lassen Sie sich hier von den Projektbeispielen inspirieren!
 	   </div>

@@ -5,14 +5,16 @@ permalink: /uebermich/
 ---
 <link rel="stylesheet" href="/css/simplegrid.css">
 <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
-<div class="grid" style="background-color: lightgray;">
-    <div class="col-1-2">
+<div class="grid"  style="background: rgb(187, 223, 255);background: rgba(187, 223, 255, .5);">
+    <div class="col-1-12">
+	</div>
+    <div class="col-4-12">
        <div class="content">
 	<img style="vertical-align: middle;" src="/img/monika.png">
        </div>
     </div>
-    <div class="col-1-2" >
-       <div class="content" style="font-family: 'Dancing Script', serif;text-align: center;font-size: 150%;">
+    <div class="col-7-12" >
+       <div class="content" style="font-family: 'Dancing Script', serif;text-align: center;font-size: 120%;">
 <span style="vertical-align:middle;">Meine Philosophie:<br>
 Es ist die Energie der Leidenschaft, die<br>
 die Herzen begeistert!<br>
