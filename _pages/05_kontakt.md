@@ -14,8 +14,8 @@ permalink: /kontakt/
 	   </div>
 	   <div class="col-7-12">
        <div class="content" style="font:arial;color:white;text-align:center;padding:18% 0;">
-	   Wenn Sie Fragen haben oder einen Termin
-für eine unverbindliche Beratung vereinbaren möchten,
+	   Wenn Sie Fragen haben oder einen Termin<br>
+für eine unverbindliche Beratung vereinbaren möchten,<br>
 nehmen Sie mit mir Kontakt auf!
 	   </div>
 	   </div>
