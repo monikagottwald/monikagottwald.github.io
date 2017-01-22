@@ -25,8 +25,8 @@ Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE261580923
 	   </div>
 	   </div>
 	   <div class="col-4-12">
-       <div class="content">
-<img src="/img/impressum2.jpg">
+       <div class="right-image">
+<img class="right-image" src="/img/impressum2.jpg">
 	   </div>
 	   </div>
 </div>
