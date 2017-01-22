@@ -62,9 +62,9 @@ und für hohe Qualität ihrer Produkte einstehen. <br><br>
 	   </div>
 	   </div>
 
-<br><br><br>
+<br><br>
 
-<div style="display: block;margin-left: auto;margin-right: auto;">
+<div class="center-image">
 <div class="popup-gallery" style="margin-left: auto;margin-right: auto;">
 	<a title="Bonsai" href="/img/produkte/001_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/001_produkt.jpg"></a>
 	<a title="Kentai Palme" href="/img/produkte/002_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/002_produkt.jpg"></a>
