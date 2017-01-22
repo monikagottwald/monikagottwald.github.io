@@ -24,24 +24,24 @@ für die Umsetzung!<br>
     </div>
 </div>
 
-<br><br>
+<br>
 
 <div class="grid">
-    <div class="col-1-3">
+    <div class="col-1-3" style="padding-right: 25px;">
        <div class="content" style="font-family: 'Italianno', cursive, serif;font-size: 150%;text-align:justify;">
      Ich bin keine Innenarchitektin, ich würde mich eher als Künstlerin für Raumgestaltung bezeichnen. Vielleicht bringe ich nicht die klassische Qualifikation mit aber eine Leidenschaft für die Gestaltung von Räumen zum Wohlfühlen und Begeistern.
 <br>1972 bin ich  in einer kleinen Stadt in den Masuren von Polen geboren und habe meine ersten 8 Lebensjahre in einer malerischen und idyllischen Landschaft bestehend aus Wäldern und Seen verbracht, wo die Natur noch unberührt, lebendig und so vielfältig ist. Bis heute fasziniert mich die Natur und oft lasse ich mich von ihr inspirieren.
 Es begeistert mich mit Menschen an neuen Ideen  zusammenzuarbeiten, die faszinierende Räume erschaffen. 
        </div>
     </div>
-    <div class="col-1-3">
+    <div class="col-1-3" style="padding-left: 25px;padding-right: 25px;">
        <div class="content" style="font-family: 'Italianno', cursive, serif;font-size: 150%;text-align:justify;">
      Als ich 1995 meine Berufsausbildung bei 
 der Fa. Krupp Fördertechnik GmbH zur Maschinenbauzeichnerin erfolgreich abgeschlossen hatte, merkte ich schnell, dass mich die Technik zwar sehr interessierte, jedoch fehlte mir etwas. Etwas, wo ich meine Kreativität einfließen lassen konnte. Also wechselte ich von einem Weltunternehmen zu einer kleinen Ladenbaufirma namens Pro Shop GmbH, wo ich mich mit den Materialien und erstmalig mit der Gestaltung von Räumen sehr wohl gefühlt habe.Wegen familiären Umständen, wie die Geburt meiner beiden Kinder und einem 2-jährigen Aufenthalt in den USA nahm ich nach einigen Jahren eine Stelle bei der Fa. Renzel GmbH an,welches ein mittelständisches Unternehmen für den Bereich der Verkaufsförderung ist. In der Konstruktionsabteilung war ich für die Arbeitsvorbereitung und später auch für die Produktentwicklung zuständig.
        </div>
     </div>
     <div class="col-1-3" >
-       <div class="content" style="font-family: 'Italianno', cursive, serif;font-size: 150%;text-align:justify;">
+       <div class="content" style="font-family: 'Italianno', cursive, serif;font-size: 150%;text-align:justify;padding-left: 25px;">
      Seit 2008 bin ich selbstständig im Bereich der Verkaufsgestaltung und Produktpräsentation. 
 	 2013 verlagerte ich meinen Schwerpunkt auf Raumgestaltung und seit dem fühle ich mich endlich 
 	 dort angekommen, wo ich schon immer sein wollte. Dank der Fa. Hüls Baukonzepte GmbH konnte ich 
