@@ -10,7 +10,7 @@ permalink: /leistungen/
 </div>
 <div class="col-8-12">
 
-	   <img src="/img/leistungen-head.png">
+	   <img src="/img/leistungen-head2.jpg">
 
 </div>
 <div class="col-2-12">
