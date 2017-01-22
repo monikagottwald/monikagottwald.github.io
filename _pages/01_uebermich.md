@@ -28,7 +28,7 @@ für die Umsetzung!<br>
     <div class="col-1-3">
        <div class="content" style="font-family: 'Italianno', cursive, serif;font-size: 150%;">
      Ich bin keine Innenarchitektin, ich würde mich eher als Künstlerin für Raumgestaltung bezeichnen. Vielleicht bringe ich nicht die klassische Qualifikation mit aber eine Leidenschaft für die Gestaltung von Räumen zum Wohlfühlen und Begeistern.
-1972 bin ich  in einer kleinen Stadt in den Masuren von Polen geboren und habe meine ersten 8 Lebensjahre in einer malerischen und idyllischen Landschaft bestehend aus Wäldern und Seen verbracht, wo die Natur noch unberührt, lebendig und so vielfältig ist. Bis heute fasziniert mich die Natur und oft lasse ich mich von ihr inspirieren.
+<br>1972 bin ich  in einer kleinen Stadt in den Masuren von Polen geboren und habe meine ersten 8 Lebensjahre in einer malerischen und idyllischen Landschaft bestehend aus Wäldern und Seen verbracht, wo die Natur noch unberührt, lebendig und so vielfältig ist. Bis heute fasziniert mich die Natur und oft lasse ich mich von ihr inspirieren.
 Es begeistert mich mit Menschen an neuen Ideen  zusammenzuarbeiten, die faszinierende Räume erschaffen. 
        </div>
     </div>
