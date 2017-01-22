@@ -13,7 +13,7 @@ permalink: /inspiration/
 	   </div>
 	   </div>
 	   <div class="col-7-12">
-       <div class="content" style="color:white;text-align:center;padding:22% 0;font-size: 150%;">
+       <div class="content" style="color:white;text-align:center;padding:22% 0;font-size: 130%;padding-right:20px">
 	   Lassen Sie sich hier von den Projektbeispielen inspirieren!
 	   </div>
 	   </div>
