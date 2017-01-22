@@ -22,7 +22,7 @@ permalink: /leistungen/
 
 <div class="grid">
 <div class="col-1-12">
-<img src="/img/leaf.png" style="width:50%;">
+<img class="right-image" src="/img/leaf.png" style="width:50%;">
 </div>
 <div class="col-11-12">
 <b>Beratung</b>
@@ -33,7 +33,7 @@ Durch meine langjährige Erfahrung in der Raumgestaltung gebe ich gerne meine Ti
 </p>
 </div>
 <div class="col-1-12" style="padding-top:20px;">
-<img src="/img/leaf.png" style="width:50%;">
+<img class="right-image" src="/img/leaf.png" style="width:50%;">
 </div>
 <div class="col-11-12" style="padding-top:20px;">
 <b>Konzepterstellung</b>
@@ -41,7 +41,7 @@ Durch meine langjährige Erfahrung in der Raumgestaltung gebe ich gerne meine Ti
 </p>
 </div>
 <div class="col-1-12" style="padding-top:20px;">
-<img src="/img/leaf.png" style="width:50%;">
+<img class="right-image" src="/img/leaf.png" style="width:50%;">
 </div>
 <div class="col-11-12" style="padding-top:20px;">
 <b>Lieferung und Aufbau</b>
