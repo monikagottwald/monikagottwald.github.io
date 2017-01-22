@@ -23,8 +23,10 @@ nehmen Sie mit mir Kontakt auf!
 
 <br><br>
 
-<div class="grid" style="color:#006600;text-align:center">
-    <div class="col-5-12">
+<div class="grid" style="color:#006600;text-align:left;font-size:200%;">
+    <div class="col-1-12">
+</div>
+	<div class="col-4-12">
        <div class="content">
 	   Monika Gottwald<br>
 	   Askanenstr. 5<br>
