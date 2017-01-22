@@ -17,7 +17,7 @@ Vertreten durch:<br>
 Monika Gottwald<br><br>
 
 Kontakt:<br>
-Telefon: 02871-2685570<br>
+Telefon: 02871&ndash;2685570<br>
 E-Mail: monika.gottwald@gmail.com<br><br>
 
 Umsatzsteuer-ID:<br>
