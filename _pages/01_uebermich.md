@@ -8,7 +8,7 @@ permalink: /uebermich/
 <div class="grid" style="background-color: lightgray;">
     <div class="col-1-2">
        <div class="content">
-	<img style="vertical-align: middle;" src="/img/monika.png"></img>
+	<img style="vertical-align: middle;" src="/img/monika.png">
        </div>
     </div>
     <div class="col-1-2" >
