@@ -3,9 +3,41 @@ layout: page
 title: Leistungen
 permalink: /leistungen/
 ---
+<link rel="stylesheet" href="/css/simplegrid.css">
+<div style="background: rgb(229, 203, 121);background: rgba(229, 203, 121, .5);">
+	   <img src="/img/leistungen-head.png">
+</div>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<br>
+<br>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<div class="grid">
+<div class="col-1-12">
+<img src="/img/leaf.png">
+</div>
+<div class="col-11-12">
+<b>Beratung</b>
+<p>
+Die Räume, in denen wir leben, arbeiten oder in denen wir etwas repräsentieren stellen unterschiedliche Ansprüche und Funktionen dar. Sie unterscheiden sich in ihrer Einrichtung, Stil und Ambiente.
+Und oftmals ist es schwierig einzuschätzen, welche Pflanzendekoration die richtige ist, denn eine Pflanzengestaltung kann üppig, dezent, als Blickfang dienen, Räume trennen oder im Hintergrund zur Atmosphäre beitragen.
+Durch meine langjährige Erfahrung in der Raumgestaltung gebe ich gerne meine Tipps und Ideen weiter und berate Sie gerne Vorort in den entsprechenden Räumlichkeiten.
+</p>
+</div>
+<div class="col-1-12">
+<img src="/img/leaf.png">
+</div>
+<div class="col-11-12">
+<b>Konzepterstellung</b>
+<p>Anhand von Fotos und Grundrissen, sofern welche vorhanden sind, erstelle ich Ihnen ein Gestaltungskonzept mit Vorschlägen und Ideen. Anschließend optimieren wir gemeinsam das Konzept bis zu Ihrer vollsten Zufriedenheit.   
+</p>
+</div>
+<div class="col-1-12">
+<img src="/img/leaf.png">
+</div>
+<div class="col-11-12">
+<b>Lieferung und Aufbau</b>
+<p>Und natürlich müssen Sie sich nach der Bestellung um nichts mehr kümmern! 
+Ich liefere und baue Ihre Pflanzendekoration für Sie vor Ort auf!
+</p>
+</div>
+</div>
