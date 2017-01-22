@@ -13,7 +13,7 @@ images:
 ---
 <!-- Magnific Popup core CSS file -->
 <link rel="stylesheet" href="/script/magnific-popup.css">
-
+<link rel="stylesheet" href="/css/simplegrid.css">
 <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
@@ -41,34 +41,46 @@ $(document).ready(function() {
 });
 
 </script>
+<div class="grid" style="background: rgb(173, 203, 119);background: rgba(173, 203, 119, .5);">
+    <div class="col-1-2">
+       <div class="content">
+	   <img src="/img/produkte/head.png">
+	   </div>
+	   </div>
+	   <div class="col-1-2">
+       <div class="content" style="font:arial;text-align:center">
+	   <b>Hier nur ein kleiner Teil der Produktauswahl.<br>
+Im Sortiment stehen für Sie noch viele weitere Pflanzen zur Verfügung!</b><br><br>
 
-Hier nur ein kleiner Teil der Produktauswahl.
-Im Sortiment stehen für Sie noch viele weitere Pflanzen zur Verfügung!
+Ich arbeite mit ausgewählten Lieferanten, die bereits langjährige Erfahrung in der <br>Herstellung haben
+und für hohe Qualität ihrer Produkte einstehen. <br><br>
 
-Ich arbeite mit ausgewählten Lieferanten, die bereits langjährige Erfahrung in der Herstellung haben
-und für hohe Qualität ihrer Produkte einstehen. 
+Überzeugen Sie sich selbst,<br> die hochwertig verarbeiteten Pflanzen sind von echten  kaum zu unterscheiden!
+	   </div>
+	   </div>
+	   </div>
 
-Überzeugen Sie sich selbst, die hochwertig verarbeiteten Pflanzen sind von echten  kaum zu unterscheiden!
+<br><br><br>
 
-<div class="popup-gallery">
-	<a title="Bonsai" href="/img/produkte/001_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/001_produkt.jpg"></a>
-	<a title="Kentai Palme" href="/img/produkte/002_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/002_produkt.jpg"></a>
-	<a title="Monstera" href="/img/produkte/003_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/003_produkt.jpg"></a>
-		<a title="Dracaena" href="/img/produkte/004_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/004_produkt.jpg"></a>
-	<a title="Shirakashi Bonsai" href="/img/produkte/005_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/005_produkt.jpg"></a>
-	<a title="Lorbeerbaum" href="/img/produkte/006_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/006_produkt.jpg"></a>
-		<a title="Graspflanze" href="/img/produkte/007_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/007_produkt.jpg"></a>
-	<a title="Oriental Olive" href="/img/produkte/008_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/008_produkt.jpg"></a>
-	<a title="Buchs Spirale" href="/img/produkte/009_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/009_produkt.jpg"></a>
-		<a title="Alocasia Calidora" href="/img/produkte/010_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/010_produkt.jpg"></a>
-	<a title="Pinus Bonsai" href="/img/produkte/011_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/011_produkt.jpg"></a>
-		<a title="Strelitzien" href="/img/produkte/012_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/012_produkt.jpg"></a>
-	<a title="Wisteria-Goldregen" href="/img/produkte/013_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/013_produkt.jpg"></a>
-		<a title="Acer Bonsai" href="/img/produkte/014_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/014_produkt.jpg"></a>
-	<a title="Acer Maple" href="/img/produkte/015_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/015_produkt.jpg"></a>
-	<a title="Dracaena Reflexa Anita" href="/img/produkte/016_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/016_produkt.jpg"></a>
-		<a title="Cycas Palme" href="/img/produkte/017_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/017_produkt.jpg"></a>
-	<a title="Zamioculcas" href="/img/produkte/018_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/018_produkt.jpg"></a>
+<div class="popup-gallery" style="margin:0 auto;">
+	<a title="Bonsai" href="/img/produkte/001_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/001_produkt.jpg"></a>
+	<a title="Kentai Palme" href="/img/produkte/002_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/002_produkt.jpg"></a>
+	<a title="Monstera" href="/img/produkte/003_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/003_produkt.jpg"></a>
+		<a title="Dracaena" href="/img/produkte/004_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/004_produkt.jpg"></a>
+	<a title="Shirakashi Bonsai" href="/img/produkte/005_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/005_produkt.jpg"></a>
+	<a title="Lorbeerbaum" href="/img/produkte/006_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/006_produkt.jpg"></a>
+		<a title="Graspflanze" href="/img/produkte/007_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/007_produkt.jpg"></a>
+	<a title="Oriental Olive" href="/img/produkte/008_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/008_produkt.jpg"></a>
+	<a title="Buchs Spirale" href="/img/produkte/009_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/009_produkt.jpg"></a>
+		<a title="Alocasia Calidora" href="/img/produkte/010_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/010_produkt.jpg"></a>
+	<a title="Pinus Bonsai" href="/img/produkte/011_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/011_produkt.jpg"></a>
+		<a title="Strelitzien" href="/img/produkte/012_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/012_produkt.jpg"></a>
+	<a title="Wisteria-Goldregen" href="/img/produkte/013_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/013_produkt.jpg"></a>
+		<a title="Acer Bonsai" href="/img/produkte/014_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/014_produkt.jpg"></a>
+	<a title="Acer Maple" href="/img/produkte/015_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/015_produkt.jpg"></a>
+	<a title="Dracaena Reflexa Anita" href="/img/produkte/016_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/016_produkt.jpg"></a>
+		<a title="Cycas Palme" href="/img/produkte/017_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/017_produkt.jpg"></a>
+	<a title="Zamioculcas" href="/img/produkte/018_produkt.jpg"><img width="110" height="110" src="/img/produkte/thumb/018_produkt.jpg"></a>
 
 </div>
 <!--
