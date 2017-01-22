@@ -22,7 +22,7 @@ permalink: /leistungen/
 
 <div class="grid">
 <div class="col-1-12">
-<img src="/img/leaf.png">
+<img src="/img/leaf.png" style="width:50%;">
 </div>
 <div class="col-11-12">
 <b>Beratung</b>
@@ -32,18 +32,18 @@ Und oftmals ist es schwierig einzuschätzen, welche Pflanzendekoration die richt
 Durch meine langjährige Erfahrung in der Raumgestaltung gebe ich gerne meine Tipps und Ideen weiter und berate Sie gerne Vorort in den entsprechenden Räumlichkeiten.
 </p>
 </div>
-<div class="col-1-12">
-<img src="/img/leaf.png">
+<div class="col-1-12" style="padding-top:20px;">
+<img src="/img/leaf.png" style="width:50%;">
 </div>
-<div class="col-11-12">
+<div class="col-11-12" style="padding-top:20px;">
 <b>Konzepterstellung</b>
 <p>Anhand von Fotos und Grundrissen, sofern welche vorhanden sind, erstelle ich Ihnen ein Gestaltungskonzept mit Vorschlägen und Ideen. Anschließend optimieren wir gemeinsam das Konzept bis zu Ihrer vollsten Zufriedenheit.   
 </p>
 </div>
-<div class="col-1-12">
-<img src="/img/leaf.png">
+<div class="col-1-12" style="padding-top:20px;">
+<img src="/img/leaf.png" style="width:50%;">
 </div>
-<div class="col-11-12">
+<div class="col-11-12" style="padding-top:20px;">
 <b>Lieferung und Aufbau</b>
 <p>Und natürlich müssen Sie sich nach der Bestellung um nichts mehr kümmern! 
 Ich liefere und baue Ihre Pflanzendekoration für Sie vor Ort auf!
