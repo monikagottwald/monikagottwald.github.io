@@ -42,6 +42,14 @@ $(document).ready(function() {
 
 </script>
 
+Hier nur ein kleiner Teil der Produktauswahl.
+Im Sortiment stehen für Sie noch viele weitere Pflanzen zur Verfügung!
+
+Ich arbeite mit ausgewählten Lieferanten, die bereits langjährige Erfahrung in der Herstellung haben
+und für hohe Qualität ihrer Produkte einstehen. 
+
+Überzeugen Sie sich selbst, die hochwertig verarbeiteten Pflanzen sind von echten  kaum zu unterscheiden!
+
 <div class="popup-gallery">
 	<a title="Bonsai" href="/img/produkte/001_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/001_produkt.jpg"></a>
 	<a title="Kentai Palme" href="/img/produkte/002_produkt.jpg"><img width="120" height="120" src="/img/produkte/thumb/002_produkt.jpg"></a>
