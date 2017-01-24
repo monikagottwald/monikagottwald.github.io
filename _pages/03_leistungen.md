@@ -28,7 +28,7 @@ permalink: /leistungen/
 <b>Beratung</b>
 <p>
 Die Räume, in denen wir leben, arbeiten oder in denen wir etwas repräsentieren stellen unterschiedliche Ansprüche und Funktionen dar. Sie unterscheiden sich in ihrer Einrichtung, Stil und Ambiente.
-Und oftmals ist es schwierig einzuschätzen, welche Pflanzendekoration die richtige ist, denn eine Pflanzengestaltung kann üppig, dezent, als Blickfang dienen, Räume trennen oder im Hintergrund zur Atmosphäre beitragen.
+Und oftmals ist es schwierig einzuschätzen, welche Pflanzendekoration die richtige ist, denn eine Pflanzengestaltung kann üppig, dezent, als Blickfang dienen, Räume trennen oder im Hintergrund zur Atmosphäre vor Ort beitragen.
 Durch meine langjährige Erfahrung in der Raumgestaltung gebe ich gerne meine Tipps und Ideen weiter und berate Sie gerne Vorort in den entsprechenden Räumlichkeiten.
 </p>
 </div>
