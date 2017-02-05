@@ -2,9 +2,9 @@
 title: Gottwald Raumgestaltung
 email: monika.gottwald@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Gottwald Raumgestaltung. Monika Gottwald
+  Gottwald Raumgestaltung ist Ihr Ansprechpartner für künstliche Bepflanzung. Von der Beratung über die Konzepterstellung bis zur Lieferung und dem Aufbau von Pflanzendekorationen biete ich ein Gesamtpaket, damit Sie sich nach der Bestellung um nichts mehr kümmern müssen. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://gottwald-raumgestaltung.de" # the base hostname & protocol for your site
+url: "http://www.gottwald-raumgestaltung.de" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  
 sass:
