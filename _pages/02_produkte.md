@@ -87,10 +87,4 @@ und für hohe Qualität ihrer Produkte einstehen. <br><br>
 
 </div>
 </div>
-<!--
-<ul class="photo-gallery">
-  {% for image in page.images %}
-    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
-  {% endfor %}
-</ul>
--->
+<div class="center-image"><a href="/dl/Produkt- und Preisliste Künstliche Pflanzen 2017.pdf">Hier klicken!</a> Produkt- und Preisliste 2017</div>
