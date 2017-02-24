@@ -87,4 +87,4 @@ und für hohe Qualität ihrer Produkte einstehen. <br><br>
 
 </div>
 </div>
-<div class="center-image" style="background: rgb(173, 203, 119);background: rgba(173, 203, 119, .5);"><a style="color:darkred;" href="/dl/Produkt- und Preisliste Kuenstliche Pflanzen 2017.pdf"><b>Hier klicken!</b></a> Produkt- und Preisliste 2017</div>
+<div class="center-image" style="background: rgb(173, 203, 119);background: rgba(173, 203, 119, .5);"><a style="color:darkred;" href="/dl/Gottwald Raumgestaltung Produkt- und Preisliste Kuenstliche Pflanzen 2017.pdf"><b>Hier klicken!</b></a> Produkt- und Preisliste 2017</div>
